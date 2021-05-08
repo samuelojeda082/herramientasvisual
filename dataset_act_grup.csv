@@ -1,53 +1,53 @@
 "provincia","comuni","pib","pobla","var_pobla"
-"Álava","País Vasco",36404,333940,0.51
-"Albacete","Castilla-La Mancha",21153,388270,-0.17
-"Alicante","Comunitat Valenciana",19757,1879888,0.85
+"Álava","País-Vasco",36404,333940,0.51
+"Albacete","Castilla-La-Mancha",21153,388270,-0.17
+"Alicante","Comunitat-Valenciana",19757,1879888,0.85
 "Almería","Andalucía",19919,727945,0.86
-"Ávila","Castilla y León",20423,157664,-0.47
+"Ávila","Castilla-y-León",20423,157664,-0.47
 "Badajoz","Extremadura",18453,672137,-0.16
-"Islas Baleares","Balears". Illes,27870,1171543,1.43
+"Islas Baleares","Balears,-Illes",27870,1171543,1.43
 "Barcelona","Cataluña",30947,5743402,0.44
-"Burgos","Castilla y León",29571,357650,-0.12
+"Burgos","Castilla-y-León",29571,357650,-0.12
 "Cáceres","Extremadura",19464,391850,-0.64
 "Cádiz","Andalucía",18050,1244049,0.3
-"Castellón","Comunitat Valenciana",28367,585590,0.43
-"Ciudad Real","Castilla-La Mancha",21563,495045,-0.5
+"Castellón","Comunitat-Valenciana",28367,585590,0.43
+"Ciudad Real","Castilla-La-Mancha",21563,495045,-0.5
 "Córdoba","Andalucía",18525,781451,-0.17
 "A Coruña","Galicia",23816,1121815,0.13
-"Cuenca","Castilla-La Mancha",22691,196139,-0.42
+"Cuenca","Castilla-La-Mancha",22691,196139,-0.42
 "Girona","Cataluña",28184,781788,1.08
 "Granada","Andalucía",18181,919168,0.45
-"Guadalajara","Castilla-La Mancha",20415,261995,1.01
-"Guipúzcoa ","País Vasco",33851,727121,0.35
+"Guadalajara","Castilla-La-Mancha",20415,261995,1.01
+"Guipúzcoa ","País-Vasco",33851,727121,0.35
 "Huelva","Andalucía",20273,524278,0.35
 "Huesca","Aragón",28015,222687,0.47
 "Jaén","Andalucía",18628,631381,-0.44
-"León","Castilla y León",21579,456439,-0.82
+"León","Castilla-y-León",21579,456439,-0.82
 "Lleida","Cataluña",28456,438517,0.8
-"La Rioja","Rioja, La",27482,319914,0.54
+"La Rioja","Rioja,-La",27482,319914,0.54
 "Lugo","Galicia",23320,327946,-0.49
-"Madrid","Madrid, Comunidad de",35091,6779888,1.03
+"Madrid","Madrid,-Comunidad-de",35091,6779888,1.03
 "Málaga","Andalucía",18801,1685920,0.91
-"Murcia","Murcia". Región de,21094,1511251,0.94
-"Navarra","Navarra". Comunidad Foral de,31026,661197,0.71
+"Murcia","Murcia-Región-de",21094,1511251,0.94
+"Navarra","Navarra-Comunidad-Foral-de",31026,661197,0.71
 "Ourense","Galicia",22120,306650,-0.35
-"Asturias","Asturias, Principado de",22709,1018784,-0.45
-"Palencia","Castilla y León",27346,160321,-0.57
+"Asturias","Asturias,-Principado-de",22709,1018784,-0.45
+"Palencia","Castilla-y-León",27346,160321,-0.57
 "Las Palmas","Canarias",20813,1131065,0.95
 "Pontevedra","Galicia",22586,945408,0.11
-"Salamanca","Castilla y León",21187,329245,-0.78
+"Salamanca","Castilla-y-León",21187,329245,-0.78
 "Santa Cruz de Tenerife","Canarias",21076,1044887,1.25
 "Cantabria","Cantabria",23646,582905,0.08
-"Segovia","Castilla y León",22212,153478,-0.26
+"Segovia","Castilla-y-León",22212,153478,-0.26
 "Sevilla","Andalucía",20314,1950219,0.38
-"Soria","Castilla y León",26626,88884,-0.2
+"Soria","Castilla-y-León",26626,88884,-0.2
 "Tarragona","Cataluña",30810,816772,1.07
 "Teruel","Aragón",25262,134176,0.05
-"Toledo","Castilla-La Mancha",18617,703772,0.83
-"Valencia","Comunitat Valenciana",23363,2591875,0.72
-"Valladolid","Castilla y León",26901,520649,-0.08
-"Vizcaya","País Vasco",31792,1159443,0.3
-"Zamora","Castilla y León",19813,170588,-1.16
+"Toledo","Castilla-La-Mancha",18617,703772,0.83
+"Valencia","Comunitat-Valenciana",23363,2591875,0.72
+"Valladolid","Castilla-y-León",26901,520649,-0.08
+"Vizcaya","País-Vasco",31792,1159443,0.3
+"Zamora","Castilla-y-León",19813,170588,-1.16
 "Zaragoza","Aragón",28386,972528,0.61
 "Ceuta","Ceuta",20251,84202,-0.56
 "Melilla","Melilla",18700,87076,-0.14
