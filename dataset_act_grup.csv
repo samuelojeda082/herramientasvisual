@@ -1,53 +1,53 @@
-Provincia(largo);Provincia;PIB por habitante (Ä);Poblacion;Variacion de poblaciÛn
-02†Albacete;Albacete;21153;388270,00;-0,17
-03†Alicante/Alacant;Alicante;19757;1879888,00;0,85
-04†AlmerÌa;AlmerÌa;19919;727945,00;0,86
-01†Araba/¡lava;¡lava;36404;333940,00;0,51
-33†Asturias;Asturias;22709;1018784,00;-0,45
-05†¡vila;¡vila;20423;157664,00;-0,47
-06†Badajoz;Badajoz;18453;672137,00;-0,16
-07†Balears,†Illes;Islas†Baleares;27870;1171543,00;1,43
-08†Barcelona;Barcelona;30947;5743402,00;0,44
-48†Bizkaia;Vizcaya;31792;1159443,00;0,3
-09†Burgos;Burgos;29571;357650,00;-0,12
-10†C·ceres;C·ceres;19464;391850,00;-0,64
-11†C·diz;C·diz;18050;1244049,00;0,3
-39†Cantabria;Cantabria;23646;582905,00;0,08
-12†CastellÛn/CastellÛ;CastellÛn;28367;585590,00;0,43
-13†Ciudad†Real;Ciudad†Real;21563;495045,00;-0,5
-14†CÛrdoba;CÛrdoba;18525;781451,00;-0,17
-15†CoruÒa,†A;A†CoruÒa;23816;1121815,00;0,13
-16†Cuenca;Cuenca;22691;196139,00;-0,42
-20†Gipuzkoa;Guip˙zcoa†;33851;727121,00;0,35
-17†Girona;Girona;28184;781788,00;1,08
-18†Granada;Granada;18181;919168,00;0,45
-19†Guadalajara;Guadalajara;20415;261995,00;1,01
-21†Huelva;Huelva;20273;524278,00;0,35
-22†Huesca;Huesca;28015;222687,00;0,47
-23†JaÈn;JaÈn;18628;631381,00;-0,44
-24†LeÛn;LeÛn;21579;456439,00;-0,82
-25†Lleida;Lleida;28456;438517,00;0,8
-27†Lugo;Lugo;23320;327946,00;-0,49
-28†Madrid;Madrid;35091;6779888,00;1,03
-29†M·laga;M·laga;18801;1685920,00;0,91
-30†Murcia;Murcia;21094;1511251,00;0,94
-31†Navarra;Navarra;31026;661197,00;0,71
-32†Ourense;Ourense;22120;306650,00;-0,35
-34†Palencia;Palencia;27346;160321,00;-0,57
-35†Palmas,†Las;Las†Palmas;20813;1131065,00;0,95
-36†Pontevedra;Pontevedra;22586;945408,00;0,11
-26†Rioja,†La;La†Rioja;27482;319914,00;0,54
-37†Salamanca;Salamanca;21187;329245,00;-0,78
-38†Santa†Cruz†de†Tenerife;Santa†Cruz†de†Tenerife;21076;1044887,00;1,25
-40†Segovia;Segovia;22212;153478,00;-0,26
-41†Sevilla;Sevilla;20314;1950219,00;0,38
-42†Soria;Soria;26626;88884,00;-0,2
-43†Tarragona;Tarragona;30810;816772,00;1,07
-44†Teruel;Teruel;25262;134176,00;0,05
-45†Toledo;Toledo;18617;703772,00;0,83
-46†Valencia/ValËncia;Valencia;23363;2591875,00;0,72
-47†Valladolid;Valladolid;26901;520649,00;-0,08
-49†Zamora;Zamora;19813;170588,00;-1,16
-50†Zaragoza;Zaragoza;28386;972528,00;0,61
-51†Ceuta;Ceuta;20251;84202,00;-0,56
-52†Melilla;Melilla;18700;87076,00;-0,14
+"provincia","comuni","pib","pobla","var_pobla"
+"√Ålava","Pa√≠s Vasco",36404,333940,0.51
+"Albacete","Castilla-La Mancha",21153,388270,-0.17
+"Alicante","Comunitat Valenciana",19757,1879888,0.85
+"Almer√≠a","Andaluc√≠a",19919,727945,0.86
+"√Åvila","Castilla y Le√≥n",20423,157664,-0.47
+"Badajoz","Extremadura",18453,672137,-0.16
+"Islas¬†Baleares","Balears". Illes,27870,1171543,1.43
+"Barcelona","Catalu√±a",30947,5743402,0.44
+"Burgos","Castilla y Le√≥n",29571,357650,-0.12
+"C√°ceres","Extremadura",19464,391850,-0.64
+"C√°diz","Andaluc√≠a",18050,1244049,0.3
+"Castell√≥n","Comunitat Valenciana",28367,585590,0.43
+"Ciudad¬†Real","Castilla-La Mancha",21563,495045,-0.5
+"C√≥rdoba","Andaluc√≠a",18525,781451,-0.17
+"A¬†Coru√±a","Galicia",23816,1121815,0.13
+"Cuenca","Castilla-La Mancha",22691,196139,-0.42
+"Girona","Catalu√±a",28184,781788,1.08
+"Granada","Andaluc√≠a",18181,919168,0.45
+"Guadalajara","Castilla-La Mancha",20415,261995,1.01
+"Guip√∫zcoa¬†","Pa√≠s Vasco",33851,727121,0.35
+"Huelva","Andaluc√≠a",20273,524278,0.35
+"Huesca","Arag√≥n",28015,222687,0.47
+"Ja√©n","Andaluc√≠a",18628,631381,-0.44
+"Le√≥n","Castilla y Le√≥n",21579,456439,-0.82
+"Lleida","Catalu√±a",28456,438517,0.8
+"La¬†Rioja","Rioja, La",27482,319914,0.54
+"Lugo","Galicia",23320,327946,-0.49
+"Madrid","Madrid, Comunidad de",35091,6779888,1.03
+"M√°laga","Andaluc√≠a",18801,1685920,0.91
+"Murcia","Murcia". Regi√≥n de,21094,1511251,0.94
+"Navarra","Navarra". Comunidad Foral de,31026,661197,0.71
+"Ourense","Galicia",22120,306650,-0.35
+"Asturias","Asturias". Principado de,22709,1018784,-0.45
+"Palencia","Castilla y Le√≥n",27346,160321,-0.57
+"Las¬†Palmas","Canarias",20813,1131065,0.95
+"Pontevedra","Galicia",22586,945408,0.11
+"Salamanca","Castilla y Le√≥n",21187,329245,-0.78
+"Santa¬†Cruz¬†de¬†Tenerife","Canarias",21076,1044887,1.25
+"Cantabria","Cantabria",23646,582905,0.08
+"Segovia","Castilla y Le√≥n",22212,153478,-0.26
+"Sevilla","Andaluc√≠a",20314,1950219,0.38
+"Soria","Castilla y Le√≥n",26626,88884,-0.2
+"Tarragona","Catalu√±a",30810,816772,1.07
+"Teruel","Arag√≥n",25262,134176,0.05
+"Toledo","Castilla-La Mancha",18617,703772,0.83
+"Valencia","Comunitat Valenciana",23363,2591875,0.72
+"Valladolid","Castilla y Le√≥n",26901,520649,-0.08
+"Vizcaya","Pa√≠s Vasco",31792,1159443,0.3
+"Zamora","Castilla y Le√≥n",19813,170588,-1.16
+"Zaragoza","Arag√≥n",28386,972528,0.61
+"Ceuta","Ceuta",20251,84202,-0.56
+"Melilla","Melilla",18700,87076,-0.14
