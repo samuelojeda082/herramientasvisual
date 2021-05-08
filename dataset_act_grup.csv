@@ -1,0 +1,53 @@
+Provincia(largo);Provincia;PIB por habitante (€);Poblacion;Variacion de población
+02 Albacete;Albacete;21153;388270,00;-0,17
+03 Alicante/Alacant;Alicante;19757;1879888,00;0,85
+04 Almería;Almería;19919;727945,00;0,86
+01 Araba/Álava;Álava;36404;333940,00;0,51
+33 Asturias;Asturias;22709;1018784,00;-0,45
+05 Ávila;Ávila;20423;157664,00;-0,47
+06 Badajoz;Badajoz;18453;672137,00;-0,16
+07 Balears, Illes;Islas Baleares;27870;1171543,00;1,43
+08 Barcelona;Barcelona;30947;5743402,00;0,44
+48 Bizkaia;Vizcaya;31792;1159443,00;0,3
+09 Burgos;Burgos;29571;357650,00;-0,12
+10 Cáceres;Cáceres;19464;391850,00;-0,64
+11 Cádiz;Cádiz;18050;1244049,00;0,3
+39 Cantabria;Cantabria;23646;582905,00;0,08
+12 Castellón/Castelló;Castellón;28367;585590,00;0,43
+13 Ciudad Real;Ciudad Real;21563;495045,00;-0,5
+14 Córdoba;Córdoba;18525;781451,00;-0,17
+15 Coruña, A;A Coruña;23816;1121815,00;0,13
+16 Cuenca;Cuenca;22691;196139,00;-0,42
+20 Gipuzkoa;Guipúzcoa ;33851;727121,00;0,35
+17 Girona;Girona;28184;781788,00;1,08
+18 Granada;Granada;18181;919168,00;0,45
+19 Guadalajara;Guadalajara;20415;261995,00;1,01
+21 Huelva;Huelva;20273;524278,00;0,35
+22 Huesca;Huesca;28015;222687,00;0,47
+23 Jaén;Jaén;18628;631381,00;-0,44
+24 León;León;21579;456439,00;-0,82
+25 Lleida;Lleida;28456;438517,00;0,8
+27 Lugo;Lugo;23320;327946,00;-0,49
+28 Madrid;Madrid;35091;6779888,00;1,03
+29 Málaga;Málaga;18801;1685920,00;0,91
+30 Murcia;Murcia;21094;1511251,00;0,94
+31 Navarra;Navarra;31026;661197,00;0,71
+32 Ourense;Ourense;22120;306650,00;-0,35
+34 Palencia;Palencia;27346;160321,00;-0,57
+35 Palmas, Las;Las Palmas;20813;1131065,00;0,95
+36 Pontevedra;Pontevedra;22586;945408,00;0,11
+26 Rioja, La;La Rioja;27482;319914,00;0,54
+37 Salamanca;Salamanca;21187;329245,00;-0,78
+38 Santa Cruz de Tenerife;Santa Cruz de Tenerife;21076;1044887,00;1,25
+40 Segovia;Segovia;22212;153478,00;-0,26
+41 Sevilla;Sevilla;20314;1950219,00;0,38
+42 Soria;Soria;26626;88884,00;-0,2
+43 Tarragona;Tarragona;30810;816772,00;1,07
+44 Teruel;Teruel;25262;134176,00;0,05
+45 Toledo;Toledo;18617;703772,00;0,83
+46 Valencia/València;Valencia;23363;2591875,00;0,72
+47 Valladolid;Valladolid;26901;520649,00;-0,08
+49 Zamora;Zamora;19813;170588,00;-1,16
+50 Zaragoza;Zaragoza;28386;972528,00;0,61
+51 Ceuta;Ceuta;20251;84202,00;-0,56
+52 Melilla;Melilla;18700;87076,00;-0,14
