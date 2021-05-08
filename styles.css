@@ -1,0 +1,14 @@
+.bubbles {
+    stroke-width: 1px;
+    stroke: black;
+    opacity: .8
+  }
+  
+  .bubbles:hover {
+    stroke: black;
+  }
+  
+h1{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 22px;
+}
